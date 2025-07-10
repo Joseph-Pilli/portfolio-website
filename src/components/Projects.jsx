@@ -10,7 +10,7 @@ const Projects = () => {
         'Built a secure e-commerce platform using React, JWT Auth, and REST APIs. Features include login, product listings, detail view, and user authentication via JWT.',
       technologies: ['React.js', 'JWT Authentication', 'REST APIs', 'CSS', 'JavaScript'],
       liveUrl: 'https://joenxttrendz.ccbp.tech',
-      githubUrl: 'https://github.com/Joseph-Pilli/nxt-trendz-clone',
+      githubUrl: 'https://github.com/Joseph-Pilli/nxtTrendz-app',
       image:
         'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       featured: true,
@@ -22,7 +22,7 @@ const Projects = () => {
         'Developed a book management system with rating, filtering, and login functionality. UI crafted using Figma designs, React Select, and Bootstrap.',
       technologies: ['React.js', 'Bootstrap', 'React Select', 'Figma', 'API Integration'],
       liveUrl: 'https://joebookhub.ccbp.tech',
-      githubUrl: 'https://github.com/Joseph-Pilli/bookhub-clone',
+      githubUrl: 'https://github.com/Joseph-Pilli/bookHub-mini-project',
       image:
         'https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       featured: true,
@@ -34,7 +34,7 @@ const Projects = () => {
         'Designed video content platform with Login, Trending, Gaming, and Saved sections. Used JWT tokens, REST APIs, and local storage for session management.',
       technologies: ['React.js', 'JWT Tokens', 'Local Storage', 'REST APIs', 'Video Streaming'],
       liveUrl: 'https://joenxtwatch.ccbp.tech',
-      githubUrl: 'https://github.com/Joseph-Pilli/nxtwatch-clone',
+      githubUrl: 'https://github.com/Joseph-Pilli/nxt-watch',
       image:
         'https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       featured: true,
