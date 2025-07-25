@@ -17,7 +17,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
             <div className="w-80 h-80 mx-auto lg:mx-0 rounded-2xl bg-gradient-to-br from-blue-500 to-purple-600 p-1 mb-8">
-              <div className="w-full h-full rounded-2xl bg-gray-100 flex items-center justify-center">
+              <div className="w-full h-full rounded-2xl flex items-center justify-center">
                 <img src='https://res.cloudinary.com/djiut4yaa/image/upload/v1753444838/Pic1_czby6g.jpg'/>
               </div>
             </div>
