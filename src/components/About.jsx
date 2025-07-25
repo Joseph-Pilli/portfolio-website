@@ -18,7 +18,7 @@ const About = () => {
           <div>
             <div className="w-80 h-80 mx-auto lg:mx-0 rounded-2xl bg-gradient-to-br from-blue-500 to-purple-600 p-1 mb-8">
               <div className="w-full h-full rounded-2xl bg-gray-100 flex items-center justify-center">
-                <User className="w-32 h-32 text-gray-400" />
+                <img src='https://res.cloudinary.com/djiut4yaa/image/upload/v1753444838/Pic1_czby6g.jpg'/>
               </div>
             </div>
           </div>
